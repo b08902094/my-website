@@ -13,7 +13,10 @@ export const Projects = () => {
       <Row xs={1} md={3} xl={4} className="g-4">
         <Col>
           <Card>
-            <Card.Img variant="top" src={img1} />
+            <Card.Img
+              variant="top"
+              src="https://github.com/b08902094/my-website/blob/main/src/assets/img/gemma-evans-tGR6PIiARSE-unsplash.jpg?raw=true"
+            />
             <Card.Body>
               <Card.Title>映画推薦システム</Card.Title>
               <Card.Text align="left">
@@ -28,7 +31,10 @@ export const Projects = () => {
         </Col>
         <Col>
           <Card>
-            <Card.Img variant="top" src={img2} />
+            <Card.Img
+              variant="top"
+              src="https://github.com/b08902094/my-website/blob/main/src/assets/img/tamara-gore-WAgochFWI7Q-unsplash.jpg?raw=true"
+            />
             <Card.Body>
               <Card.Title>ケーキ販売ECサイト</Card.Title>
               <Card.Text align="left">
@@ -40,7 +46,10 @@ export const Projects = () => {
         </Col>
         <Col>
           <Card>
-            <Card.Img variant="top" src={img4} />
+            <Card.Img
+              variant="top"
+              src="https://github.com/b08902094/my-website/blob/main/src/assets/img/kelly-sikkema-gcHFXsdcmJE-unsplash.jpg?raw=true"
+            />
             <Card.Body>
               <Card.Title>
                 SONY Toioを用いたVIユーザー向けUIデザインツール
@@ -58,7 +67,10 @@ export const Projects = () => {
         </Col>
         <Col>
           <Card>
-            <Card.Img variant="top" src={img3} />
+            <Card.Img
+              variant="top"
+              src="https://github.com/b08902094/my-website/blob/main/src/assets/img/lucrezia-carnelos-IMUwe-p1yqs-unsplash.jpg?raw=true"
+            />
             <Card.Body>
               <Card.Title>VR Brainstorming</Card.Title>
               <Card.Text align="left">

@@ -2,7 +2,6 @@ import React from "react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import { Container, Row, Col } from "react-bootstrap";
-import { Laptop } from "react-bootstrap-icons";
 
 export const Skills = () => {
   const responsive = {
