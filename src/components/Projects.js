@@ -1,5 +1,4 @@
 import React from "react";
-import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 import { Container, Row, Col } from "react-bootstrap";
 import img1 from "../assets/img/gemma-evans-tGR6PIiARSE-unsplash.jpg";

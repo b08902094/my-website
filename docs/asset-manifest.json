@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e75f129c.css",
-    "main.js": "/static/js/main.63ab8041.js",
+    "main.js": "/static/js/main.e0b814e4.js",
     "static/js/453.195b869a.chunk.js": "/static/js/453.195b869a.chunk.js",
     "static/media/tamara-gore-WAgochFWI7Q-unsplash.jpg": "/static/media/tamara-gore-WAgochFWI7Q-unsplash.389b5679f076009a88c0.jpg",
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
@@ -17,11 +17,11 @@
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.e75f129c.css.map": "/static/css/main.e75f129c.css.map",
-    "main.63ab8041.js.map": "/static/js/main.63ab8041.js.map",
+    "main.e0b814e4.js.map": "/static/js/main.e0b814e4.js.map",
     "453.195b869a.chunk.js.map": "/static/js/453.195b869a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e75f129c.css",
-    "static/js/main.63ab8041.js"
+    "static/js/main.e0b814e4.js"
   ]
 }
