@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { TypeAnimation } from "react-type-animation";
-import headerImg from "https://github.com/b08902094/my-website/blob/main/src/assets/img/space-svgrepo-com.svg";
+import headerImg from "../assets/img/space-svgrepo-com.svg";
 
 export const Banner = () => {
   return (
