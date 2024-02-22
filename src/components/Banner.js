@@ -32,7 +32,12 @@ export const Banner = () => {
             />
           </Col>
           <Col xs={12} md={7} xl={7}>
-            <img src={headerImg} alt="Header Img" />
+            <img
+              src={
+                "https://raw.githubusercontent.com/b08902094/my-website/3c27ba36e59f1d5e8cedb5c276b2cb1205083550/src/assets/img/space-svgrepo-com.svg"
+              }
+              alt="Header Img"
+            />
           </Col>
         </Row>
       </Container>
