@@ -2,7 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { TypeAnimation } from "react-type-animation";
 import headerImg from "../assets/img/space-svgrepo-com.svg";
-
+const imPath =
+  "https://github.com/b08902094/my-website/tree/main/src/assets/img";
 export const Banner = () => {
   return (
     <section className="banner" id="home">
@@ -32,7 +33,7 @@ export const Banner = () => {
             />
           </Col>
           <Col xs={12} md={7} xl={7}>
-            <img src={headerImg} alt="Header Img" />
+            <img src={imPath + headerImg} alt="Header Img" />
           </Col>
         </Row>
       </Container>
