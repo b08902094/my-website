@@ -1,24 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.e75f129c.css",
-    "main.js": "/static/js/main.d63feacd.js",
+    "main.js": "/static/js/main.aee9a5e0.js",
     "static/js/453.195b869a.chunk.js": "/static/js/453.195b869a.chunk.js",
-    "static/media/tamara-gore-WAgochFWI7Q-unsplash.jpg": "/static/media/tamara-gore-WAgochFWI7Q-unsplash.389b5679f076009a88c0.jpg",
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/lucrezia-carnelos-IMUwe-p1yqs-unsplash.jpg": "/static/media/lucrezia-carnelos-IMUwe-p1yqs-unsplash.1e830470a8ae5506cf19.jpg",
-    "static/media/gemma-evans-tGR6PIiARSE-unsplash.jpg": "/static/media/gemma-evans-tGR6PIiARSE-unsplash.9880b11c40e466909b50.jpg",
-    "static/media/kelly-sikkema-gcHFXsdcmJE-unsplash.jpg": "/static/media/kelly-sikkema-gcHFXsdcmJE-unsplash.714b321184b6d9c669c3.jpg",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/space-svgrepo-com.svg": "/static/media/space-svgrepo-com.d72c6ca259d2815a0513a082e85737b9.svg",
     "index.html": "/index.html",
     "main.e75f129c.css.map": "/static/css/main.e75f129c.css.map",
-    "main.d63feacd.js.map": "/static/js/main.d63feacd.js.map",
+    "main.aee9a5e0.js.map": "/static/js/main.aee9a5e0.js.map",
     "453.195b869a.chunk.js.map": "/static/js/453.195b869a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e75f129c.css",
-    "static/js/main.d63feacd.js"
+    "static/js/main.aee9a5e0.js"
   ]
 }

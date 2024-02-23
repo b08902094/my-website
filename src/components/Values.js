@@ -6,27 +6,32 @@ export const Values = () => {
   return (
     <Container>
       <Row>
+        <hr />
         <h1 className="pt-4">Values</h1>
-        <Col xs={12} md={7}>
-          <img src="https://github.com/b08902094/my-website/blob/main/src/assets/img/Team%20goals-pana.png?raw=true" />
-          <a href="https://storyset.com/people" align="left">
-            People illustrations by Storyset
-          </a>
-        </Col>
         <Col xs={12} md={5}>
-          <div className="p-2">
-            <h5 Style="color:Tomato;" align="left">
-              ユーザーの声を反映し, ニーズの具現化に取り組む
-            </h5>
-            <h5 Style="color:Tomato;" align="left">
-              継続的な学びと技術向上を支える環境
-            </h5>
-            <h5 Style="color:Tomato;" align="left">
-              自分の仕事に誇りを持っている
-            </h5>
+          <img src="https://github.com/b08902094/my-website/blob/main/src/assets/img/Team%20goals-pana.png?raw=true" />
+          <div align="left">
+            <a href="https://storyset.com/people">
+              People illustrations by Storyset
+            </a>
           </div>
         </Col>
-        <Row className="pt-4">
+        <Col xs={12} md={7}>
+          <br />
+          <br />
+          <div className="p-4 d-flex flex-column">
+            <h3 Style="color:Tomato;" align="left">
+              ユーザーの声を反映し, ニーズの具現化に取り組む
+            </h3>
+            <h3 Style="color:Tomato;" align="left" className="pt-2">
+              継続的な学びと技術向上を支える環境
+            </h3>
+            <h3 Style="color:Tomato;" align="left" className="pt-2">
+              自分の仕事に誇りを持っている
+            </h3>
+          </div>
+        </Col>
+        <Row className="pt-4 pb-5">
           <Col xs={12} md={4}>
             <h5>日常になくてはならない仕事ができるか</h5>
             <ul align="left">

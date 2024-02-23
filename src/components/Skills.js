@@ -25,7 +25,8 @@ export const Skills = () => {
     <section className="skills" id="skills">
       <Container>
         <Row>
-          <Col className="align-items-center">
+          <hr />
+          <Col className="align-items-center pt-5">
             <div className="skill-bx">
               <h1>Skills</h1>
               <p></p>

@@ -1,13 +1,10 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import { Container, Row, Col } from "react-bootstrap";
-import img1 from "../assets/img/gemma-evans-tGR6PIiARSE-unsplash.jpg";
-import img2 from "../assets/img/tamara-gore-WAgochFWI7Q-unsplash.jpg";
-import img3 from "../assets/img/lucrezia-carnelos-IMUwe-p1yqs-unsplash.jpg";
-import img4 from "../assets/img/kelly-sikkema-gcHFXsdcmJE-unsplash.jpg";
 export const Projects = () => {
   return (
     <Container className="pt-5 align-content-center projects" id="projects">
+      <hr />
       <h1>Projects</h1>
       <br></br>
       <Row xs={1} md={3} xl={4} className="g-4">

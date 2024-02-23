@@ -12,7 +12,7 @@ import TimelineOppositeContent, {
 export const About = () => {
   return (
     <section className="about" id="about">
-      <h1>Overview</h1>
+      <h1 className="pt-5">Overview</h1>
       <Timeline
         sx={{
           [`& .${timelineOppositeContentClasses.root}`]: {
