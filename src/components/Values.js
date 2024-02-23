@@ -8,7 +8,7 @@ export const Values = () => {
       <Row>
         <h1 className="pt-4">Values</h1>
         <Col xs={12} md={7}>
-          <img src="../assets/img/Team goals-pana.png" />
+          <img src="https://github.com/b08902094/my-website/blob/main/src/assets/img/Team%20goals-pana.png?raw=true" />
           <a href="https://storyset.com/people" align="left">
             People illustrations by Storyset
           </a>
