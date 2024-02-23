@@ -5,7 +5,7 @@ export const Vision = () => {
   return (
     <Container>
       <Row>
-        <h1>Values</h1>
+        <h1>Vision</h1>
         <Col xs={12} md={4}>
           <h4>Value</h4>
           <ul align="left">
