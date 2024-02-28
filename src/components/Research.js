@@ -29,7 +29,10 @@ export const Research = () => {
             }}
           >
             <Card border="light" style={{ width: "60%" }}>
-              <Card.Img variant="top" src={img} />
+              <Card.Img
+                variant="top"
+                src="https://github.com/b08902094/my-website/blob/main/src/assets/img/nicolas-arnold--hcfzUuQ3uw-unsplash.jpg?raw=true"
+              />
             </Card>
           </Col>
         </Row>
