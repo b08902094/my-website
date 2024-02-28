@@ -17,6 +17,9 @@ export const Research = () => {
           <Col xs={12} md={5} xl={5} align="left"></Col>
           <Col xs={12} md={7} xl={7}></Col>
         </Row>
+        <Row>
+          <img src={""} />
+        </Row>
       </Container>
     </section>
   );
