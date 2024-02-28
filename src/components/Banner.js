@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { TypeAnimation } from "react-type-animation";
 import headerImg from "../assets/img/space-svgrepo-com.svg";
+import Card from "react-bootstrap/Card";
 
 export const Banner = () => {
   return (
@@ -32,12 +33,14 @@ export const Banner = () => {
             />
           </Col>
           <Col xs={12} md={7} xl={7}>
-            <img
-              src={
-                "https://raw.githubusercontent.com/b08902094/my-website/3c27ba36e59f1d5e8cedb5c276b2cb1205083550/src/assets/img/space-svgrepo-com.svg"
-              }
-              alt="Header Img"
-            />
+            <Card border="light">
+              <Card.Img
+                src={
+                  "https://raw.githubusercontent.com/b08902094/my-website/3c27ba36e59f1d5e8cedb5c276b2cb1205083550/src/assets/img/space-svgrepo-com.svg"
+                }
+                alt="Header Img"
+              />
+            </Card>
           </Col>
         </Row>
       </Container>

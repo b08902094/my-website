@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import Card from "react-bootstrap/Card";
 import img from "../assets/img/nicolas-arnold--hcfzUuQ3uw-unsplash.jpg";
 
 export const Research = () => {
@@ -19,8 +20,17 @@ export const Research = () => {
           <Col xs={12} md={7} xl={7}></Col>
         </Row>
         <Row>
-          <Col>
-            <img src={img} className="pb-4" />
+          <Col
+            className="pb-5"
+            style={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
+            <Card border="light" style={{ width: "60%" }}>
+              <Card.Img variant="top" src={img} />
+            </Card>
           </Col>
         </Row>
       </Container>
