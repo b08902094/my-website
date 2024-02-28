@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import img from "../assets/img/nicolas-arnold--hcfzUuQ3uw-unsplash.jpg";
 
 export const Research = () => {
   return (
@@ -18,11 +19,9 @@ export const Research = () => {
           <Col xs={12} md={7} xl={7}></Col>
         </Row>
         <Row>
-          <img
-            src={
-              "https://github.com/b08902094/my-website/blob/main/src/assets/img/hammer-tusk-3kB63Vz7xVg-unsplash.jpg?raw=true"
-            }
-          />
+          <Col>
+            <img src={img} className="pb-4" />
+          </Col>
         </Row>
       </Container>
     </section>
