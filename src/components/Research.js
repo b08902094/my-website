@@ -18,7 +18,11 @@ export const Research = () => {
           <Col xs={12} md={7} xl={7}></Col>
         </Row>
         <Row>
-          <img src={""} />
+          <img
+            src={
+              "https://github.com/b08902094/my-website/blob/main/src/assets/img/hammer-tusk-3kB63Vz7xVg-unsplash.jpg?raw=true"
+            }
+          />
         </Row>
       </Container>
     </section>
