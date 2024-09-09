@@ -7,7 +7,9 @@ export const Values = () => {
     <Container>
       <Row>
         <hr />
-        <h1 className="pt-4">Values</h1>
+        <h1 className="values" id="values">
+          Values
+        </h1>
         <Col xs={12} md={5}>
           <img src="https://github.com/b08902094/my-website/blob/main/src/assets/img/Team%20goals-pana.png?raw=true" />
           <div align="left">

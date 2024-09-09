@@ -6,7 +6,9 @@ export const Vision = () => {
     <Container>
       <Row>
         <hr />
-        <h1>Vision</h1>
+        <h1 className="vision" id="vision">
+          Vision
+        </h1>
         <h2 className="p-4">"すべての人のウェルビーイングを実現する社会に"</h2>
         <Col xs={12} md={4}>
           <h4>Value</h4>

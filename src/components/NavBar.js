@@ -91,6 +91,15 @@ export const NavBar = () => {
               >
                 Research
               </Nav.Link>
+              <Nav.Link
+                href="#vision"
+                className={
+                  activeLink === "vision" ? "active navbar-link" : "navbar-link"
+                }
+                onClick={() => onUpdateActiveLink("vision")}
+              >
+                Vision
+              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

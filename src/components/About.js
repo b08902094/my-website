@@ -90,6 +90,8 @@ export const About = () => {
               <div className="p-2">
                 <h5>所属</h5>
                 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域
+                <br />
+                サイバネティクス・リアリティ工学研究室
                 <h5 className="mt-2">出身</h5>
                 愛知県
                 <h5 className="mt-2">アルバイト/インターン</h5>

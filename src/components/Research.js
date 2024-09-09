@@ -11,8 +11,8 @@ export const Research = () => {
         <Row className="align-items-center pt-4">
           <Col>
             <h1>Research</h1>
-            <h2>Haptic Device for Virtual Reality Using Soft Joint Locking</h2>
-            <h4>膨張機構を用いた仮想現実のためのハプティックデバイス</h4>
+            <h2></h2>
+            <h4></h4>
           </Col>
         </Row>
         <Row className="align-items-center pt-4">

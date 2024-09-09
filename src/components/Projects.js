@@ -19,9 +19,11 @@ export const Projects = () => {
               <Card.Text align="left">
                 60000作以上の映画データセットから,
                 ユーザーの好みに合わせた映画を推薦.
-                マルチスレッド・マルチプロセスをそれぞれ実装.
+                マルチスレッドマージソートで実行時間を短縮.
                 <br />
                 使用言語: C言語
+                <br />
+                期間: 2週間/約60時間
               </Card.Text>
             </Card.Body>
           </Card>
@@ -36,7 +38,8 @@ export const Projects = () => {
               <Card.Title>ケーキ販売ECサイト</Card.Title>
               <Card.Text align="left">
                 管理者側と顧客側のUIをそれぞれ持ったECサイトを制作. <br />
-                実装環境:Ruby on Rails + SQLite3 + Bootstrap
+                実装環境:Ruby on Rails + SQLite3 + Bootstrap <br />
+                期間:1週間
               </Card.Text>
             </Card.Body>
           </Card>
